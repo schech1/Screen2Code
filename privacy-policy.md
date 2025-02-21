@@ -1,60 +1,41 @@
-Privacy Policy
+Privacy Policy for Screen2Code
 Effective Date: 20.02.2025
-Last Updated: 20.02.2025
 
-1. Introduction
+Screen2Code (“we”, “our”, “us”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose your information when you use our application, Screen2Code (the “App”).
 
-Welcome to Screen2Code (“we,” “us,” or “our”). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
+By using the App, you agree to the collection and use of information in accordance with this Privacy Policy.
 
-By using Screen2Code, you agree to the terms outlined in this policy. If you do not agree, please do not use the app.
+1. Information We Collect
 
-2. Information We Collect
+We do not collect any personal data directly from users. The only data collected is the following:
 
-a. Information You Provide
-We do not require any personal information for you to use Screen2Code. However, if you contact us for support, we may collect your name and email address.
+Apple Standard Analytics: We may collect data via Apple’s standard analytics tools through App Store Connect for operational and performance monitoring. This data is anonymized and does not identify individual users.
+Base64-Encoded Screenshot Data: The App allows you to upload a screenshot for the purpose of generating code. This image is converted to a base64-encoded string and sent to OpenAI’s API to generate code based on the screenshot.
+We do not store, share, or process this data beyond its submission to OpenAI’s API for the purpose of generating code.
 
-b. Automatically Collected Information
-When you use Screen2Code, we may collect limited, non-personal data such as:
+2. Use of Third-Party Services
 
-App usage analytics (e.g., feature engagement, crash reports)
-Device information (e.g., operating system, device model)
-c. Screenshots & Images
-Screen2Code processes images locally on your device.
-We do not store, upload, or share your screenshots.
-3. How We Use Your Information
+We use OpenAI’s API to process screenshots and generate code. When you submit a screenshot to the App, it is transmitted to OpenAI’s servers, and the resulting code is sent back to the App. OpenAI’s use of your data is governed by their own privacy policy, which you can review on their website.
 
-We use collected data to:
+We do not control the data processing by OpenAI and are not responsible for how they handle your information.
 
-Improve app functionality and user experience
-Fix bugs and enhance performance
-Respond to support inquiries
-We do not sell, rent, or share your data with third parties.
+3. Data Retention and Storage
 
-4. Data Storage & Security
+We do not store any of the data you submit through the App. All screenshots are processed in real-time, and no personal information or image data is retained on our servers.
 
-Your data is processed on-device and is not stored on our servers.
-We use industry-standard security measures to protect any data collected.
-5. Third-Party Services
+4. Security
 
-We may use third-party tools such as:
+We employ industry-standard security measures to protect any data submitted to the App, but it’s important to understand that no method of transmission over the internet or electronic storage is 100% secure. We cannot guarantee the absolute security of your information.
 
-Apple Analytics (for usage statistics)
-Crashlytics (for bug tracking)
-These services collect anonymized data and do not identify you personally.
+5. User Rights
 
-6. Your Rights & Choices
+Since we do not collect, store, or process personal information beyond the temporary submission of your screenshots to OpenAI, there are no data access, correction, or deletion rights that apply.
 
-Opt-Out: You can disable analytics tracking in your device settings.
-Access & Deletion: Since we do not store personal data, there is nothing to request or delete.
-7. Changes to This Policy
+6. Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. We will notify you of any significant changes by updating the Effective Date at the top of this page.
+We reserve the right to update or modify this Privacy Policy at any time. Any changes will be reflected in the updated version of this Privacy Policy, which will be accessible in the App and on our website.
 
-8. Contact Us
+7. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-
-📧 Email: christoph@scherbeck.tech
-
-
-This Privacy Policy ensures compliance with Apple’s App Store Guidelines and GDPR/CCPA requirements. Let me know if you need any adjustments! 🚀
+If you have any questions or concerns about this Privacy Policy or the data practices of Screen2Code, please contact us at:
+📧 christoph@scherbeck.tech
